@@ -1,4 +1,3 @@
 # Gru Network 
-Takes Shakespere scripts as training data.
-Outputs new self generated scripts.
+Generates self-generated play scripts by using Shakespeare as training data.
 
